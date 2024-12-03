@@ -1,8 +1,8 @@
-package com.nbcb.template.service;
+package com.ablue.template.service;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.nbcb.template.core.TemplateProcessor;
-import com.nbcb.template.model.CardData;
+import com.ablue.template.core.TemplateProcessor;
+import com.ablue.template.model.CardData;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

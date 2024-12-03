@@ -1,4 +1,4 @@
-package com.nbcb.template.core;
+package com.ablue.template.core;
 
 import java.util.Map;
 

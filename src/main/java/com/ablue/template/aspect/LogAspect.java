@@ -1,4 +1,4 @@
-package com.nbcb.template.aspect;
+package com.ablue.template.aspect;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import lombok.extern.slf4j.Slf4j;

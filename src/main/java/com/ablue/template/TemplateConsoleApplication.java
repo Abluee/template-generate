@@ -1,4 +1,4 @@
-package com.nbcb.template;
+package com.ablue.template;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

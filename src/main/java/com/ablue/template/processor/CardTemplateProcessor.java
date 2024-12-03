@@ -1,6 +1,6 @@
-package com.nbcb.template.processor;
+package com.ablue.template.processor;
 
-import com.nbcb.template.model.CardData;
+import com.ablue.template.model.CardData;
 import org.springframework.stereotype.Component;
 
 import java.util.List;

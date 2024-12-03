@@ -1,4 +1,4 @@
-package com.nbcb.template.model.response;
+package com.ablue.template.model.response;
 
 import io.swagger.v3.oas.annotations.media.Schema;
 import lombok.Data;

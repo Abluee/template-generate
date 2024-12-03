@@ -1,11 +1,10 @@
-package com.nbcb.template.core;
+package com.ablue.template.core;
 
 import freemarker.template.Configuration;
 import freemarker.template.Template;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.core.io.Resource;
 import org.springframework.core.io.support.PathMatchingResourcePatternResolver;
-import org.springframework.util.StringUtils;
 
 import java.io.StringWriter;
 import java.util.HashMap;

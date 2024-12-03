@@ -1,8 +1,8 @@
-package com.nbcb.template.controller;
+package com.ablue.template.controller;
 
-import com.nbcb.template.model.request.BaseTemplateRequest;
-import com.nbcb.template.model.response.BaseResponse;
-import com.nbcb.template.service.TemplateService;
+import com.ablue.template.model.request.BaseTemplateRequest;
+import com.ablue.template.service.TemplateService;
+import com.ablue.template.model.response.BaseResponse;
 import io.swagger.v3.oas.annotations.Operation;
 import io.swagger.v3.oas.annotations.Parameter;
 import io.swagger.v3.oas.annotations.tags.Tag;

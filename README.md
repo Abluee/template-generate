@@ -137,42 +137,9 @@ spring:
 
 ## 贡献指南
 
-### 提交规范
-
-提交信息格式：
-```
-<type>(<scope>): <subject>
-
-<body>
-
-<footer>
-```
-
-类型（type）：
-- `feat`: 新功能
-- `fix`: 修复bug
-- `docs`: 文档更新
-- `style`: 代码格式化
-- `refactor`: 重构
-- `test`: 测试相关
-- `chore`: 构建过程或辅助工具的变动
-
-示例：
-```bash
-feat(processor): 添加新的模板处理器
-
-- 实现自定义模板处理逻辑
-- 支持新的数据格式
-- 优化处理性能
-
-Closes #123
-```
-
-### 开发流程
-
 1. Fork 本仓库
 2. 创建特性分支 (`git checkout -b feature/AmazingFeature`)
-3. 提交改动 (`git commit -m 'feat: add some feature'`)
+3. 提交改动 (`git commit -m 'Add some AmazingFeature'`)
 4. 推送到分支 (`git push origin feature/AmazingFeature`)
 5. 提交 Pull Request
 

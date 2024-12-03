@@ -1,4 +1,4 @@
-package com.nbcb.template.model.request;
+package com.ablue.template.model.request;
 
 import lombok.Data;
 
